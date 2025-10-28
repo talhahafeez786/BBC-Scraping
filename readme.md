@@ -21,7 +21,7 @@ BBC-Scrapping/
 │   ├── arts.py
 │   ├── business.py
 │   ├── culture.py
-│   ├── earth.csv
+│   ├── earth.py
 │   ├── innovation.py
 │   ├── news.py
 │   ├── sports.py
