@@ -7,19 +7,21 @@ A Python-based web scraper that extracts news and articles from various sections
 ```
 BBC-Scrapping/
 ├── output/               # Directory containing scraped data in CSV format
+│   ├── bbc_home.csv
 │   ├── bbc_arts.csv
 │   ├── bbc_business.csv
 │   ├── bbc_culture.csv
-│   └── bbc_earth.csv
+│   ├── bbc_earth.csv
 │   ├── bbc_innovation.csv
 │   ├── bbc_news.csv
 │   ├── bbc_sport.csv
 │   ├── bbc_travel.csv
 ├── scripts/              # Individual scraper modules
+│   ├── bbc_home.csv
 │   ├── arts.py
 │   ├── business.py
 │   ├── culture.py
-│   └── earth.py
+│   ├── earth.csv
 │   ├── innovation.py
 │   ├── news.py
 │   ├── sports.py
