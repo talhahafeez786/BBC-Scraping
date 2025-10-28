@@ -53,13 +53,7 @@ BBC-Scrapping/
 
 ## 🛠 Usage
 
-1. **Run all scrapers** (uncomment the desired sections in `main.py` first):
-   ```bash
-   python main.py
-   ```
-
-2. **Run a specific section** (e.g., news):
-   Then run:
+1. **Run all scrapers**:
    ```bash
    python main.py
    ```
