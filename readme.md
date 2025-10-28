@@ -17,7 +17,7 @@ BBC-Scrapping/
 │   ├── bbc_sport.csv
 │   ├── bbc_travel.csv
 ├── scripts/              # Individual scraper modules
-│   ├── bbc_home.csv
+│   ├── home.py
 │   ├── arts.py
 │   ├── business.py
 │   ├── culture.py
